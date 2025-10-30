@@ -1,4 +1,4 @@
-# Welcome to your my project
+# Welcome to your Lovable project
 
 ## Project info
 
@@ -8,11 +8,11 @@
 
 There are several ways of editing your application.
 
+**Use Lovable**
 
+Simply visit the [Lovable Project](https://lovable.dev/projects/ee750f79-4aec-46ac-9920-80fb1a294332) and start prompting.
 
-hi
-
-
+Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -61,6 +61,8 @@ This project is built with:
 - Tailwind CSS
 
 ## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/ee750f79-4aec-46ac-9920-80fb1a294332) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
